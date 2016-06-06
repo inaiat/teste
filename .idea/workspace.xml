@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="518e3f5e-b47b-48d9-8be5-6460a230622e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="teste.iws" />
     <ignored path=".idea/workspace.xml" />
